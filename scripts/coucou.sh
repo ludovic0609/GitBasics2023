@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Coucou Git, c'est mon script"
+echo "Coucou Git, c'est mon script update"
